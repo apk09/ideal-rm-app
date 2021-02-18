@@ -1,0 +1,32 @@
+[
+    {
+        "lt": "Methods",
+        "rt": "VCV",
+        "borderColor": "primary-border-card"
+    },
+    {
+        "lt": "Horizon",
+        "rt": "1 Day",
+        "borderColor": "success-border-card"
+    },
+    {
+        "lt": "Confidence Level",
+        "rt": "99%",
+        "borderColor": "warning-border-card"
+    },
+    {
+        "lt": "Look Back Period",
+        "rt": "252 Days",
+        "borderColor": "danger-border-card"
+    },
+    {
+        "lt": "Return Type",
+        "rt": "LOG",
+        "borderColor": "primary-border-card"
+    },
+    {
+        "lt": "Return Weightage",
+        "rt": "EQUAL",
+        "borderColor": "success-border-card"
+    }
+]

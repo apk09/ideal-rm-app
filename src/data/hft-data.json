@@ -1,0 +1,38 @@
+[
+    {
+        "varDate1": "01 MAR 2019",
+        "marketValue1": "450.00",
+        "varDate2": "02 MAR 2019",
+        "marketValue2": "450.00",
+        "varAmount": "470.00",
+        "varPercent": "3.50",
+        "notionalPnl": "20.00",
+        "outlier": "Y",
+        "outlierColor": "outlier-red",
+        "actualPnl": "15.00"
+    },
+    {
+        "varDate1": "01 MAR 2019",
+        "marketValue1": "450.00",
+        "varDate2": "04 MAR 2019",
+        "marketValue2": "450.00",
+        "varAmount": "470.00",
+        "varPercent": "3.50",
+        "notionalPnl": "20.00",
+        "outlier": "N",
+        "outlierColor": "outlier-green",
+        "actualPnl": "15.00"
+    },
+    {
+        "varDate1": "01 MAR 2019",
+        "marketValue1": "450.00",
+        "varDate2": "06 MAR 2019",
+        "marketValue2": "450.00",
+        "varAmount": "470.00",
+        "varPercent": "3.50",
+        "notionalPnl": "20.00",
+        "outlier": "N",
+        "outlierColor": "outlier-red",
+        "actualPnl": "15.00"
+    }
+]
